@@ -1,1 +1,1 @@
-"# snake-server" 
+# snake-server
